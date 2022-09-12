@@ -1,4 +1,4 @@
-# Wolrd Population Analysis (1970 - 2022)
+# World Population Analysis (1970 - 2022)
  
 ## About The Project
 This project was developed as part of the Codecademy Data Scientist (Analytics Specialist) course.
