@@ -1,6 +1,6 @@
 # Wolrd Population Analysis (1970 - 2022)
  
-## Original Data Source:
+## Data Source:
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 ### Dataset Glossary (Column-Wise)
