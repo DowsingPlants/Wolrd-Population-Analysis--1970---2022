@@ -1,4 +1,4 @@
-;Rank;CCA3;Country;Capital;Continent;Area (km²);Density (per km²);Growth Rate;World Population Percentage;Growth from 1970 to 2020;value;Year
+;Rank;CCA3;Country;Capital;Continent;Area (km²);Density (per km²);Growth Rate;World Population Percentage;Growth from 1970 to 2020;Population;Year
 0;9;RUS;Russia;Moscow;Europe;17098242;8.4636;0.9973;1.81;1.119332460675635;130093010;1970
 1;9;RUS;Russia;Moscow;Europe;17098242;8.4636;0.9973;1.81;1.119332460675635;138257420;1980
 2;9;RUS;Russia;Moscow;Europe;17098242;8.4636;0.9973;1.81;1.119332460675635;148005704;1990
