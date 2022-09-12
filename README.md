@@ -1,6 +1,11 @@
 # Wolrd Population Analysis (1970 - 2022)
  
-## Data Source:
+## About The Project
+This project was developed as part of the Codecademy Data Scientist (Analytics Specialist) course.
+
+The goal is to provide a comprehensive analysis of global population trends since 1970. Regional trends in each continent or in political-economic alliances such as the European Union are also considered. 
+
+## Dataset Used:
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 ### Dataset Glossary (Column-Wise)
