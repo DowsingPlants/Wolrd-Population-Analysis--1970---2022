@@ -5,8 +5,13 @@ This project was developed as part of the Codecademy Data Scientist (Analytics S
 
 The goal is to provide a comprehensive analysis of global population trends since 1970. Regional trends in each continent or in political-economic alliances such as the European Union are also considered. 
 
+Based on the data set, various operations were performed using Python's Pandas library. The completeness and consistency of the data was checked, aggregated variables were added and the entire data table was unpivoted to be prepared for further analysis and visualization.
+
 ## Dataset Used:
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+
+### Content
+In this Dataset, we have Historical Population data for every Country/Territory in the world by different parameters like Area Size of the Country/Territory, Name of the Continent, Name of the Capital, Density, Population Growth Rate, Ranking based on Population, World Population Percentage, etc.
 
 ### Dataset Glossary (Column-Wise)
 
