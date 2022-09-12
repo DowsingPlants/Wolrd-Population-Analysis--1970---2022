@@ -1,4 +1,4 @@
-;Rank;CCA3;Country;Capital;Continent;Area (km²);Density (per km²);Growth Rate;World Population Percentage;Growth from 1970 to 2020;value;Year
+;Rank;CCA3;Country;Capital;Continent;Area (km²);Density (per km²);Growth Rate;World Population Percentage;Growth from 1970 to 2020;Population;Year
 0;1;CHN;China;Beijing;Asia;9706961;146.8933;1.0;17.88;1.7323648644746734;822534450;1970
 1;1;CHN;China;Beijing;Asia;9706961;146.8933;1.0;17.88;1.7323648644746734;982372466;1980
 2;1;CHN;China;Beijing;Asia;9706961;146.8933;1.0;17.88;1.7323648644746734;1153704252;1990
