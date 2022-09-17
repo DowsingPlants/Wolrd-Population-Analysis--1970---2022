@@ -32,6 +32,3 @@ Area (km²): Area size of the Country/Territories in square kilometer.
 Density (per km²): Population Density per square kilometer.
 Growth Rate: Population Growth Rate by Country/Territories.
 World Population Percentage: The population percentage by each Country/Territories.
-
-## Load and Check Data
-
