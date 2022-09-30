@@ -3,7 +3,7 @@
 ## About The Project
 This project was developed as part of the Codecademy Data Scientist (Analytics Specialist) course.
 
-The goal is to provide a comprehensive analysis of global population trends since 1970. Regional trends in each continent or in political-economic alliances such as the European Union are also considered. 
+The goal is to provide a comprehensive analysis of global population trends since 1970. Regional trends in each continent or in political-economic alliances such as the European Union are also prepared to be considered.
 
 Based on the data set, various operations were performed using Python's Pandas library. The completeness and consistency of the data was checked, aggregated variables were added and the entire data table was unpivoted to be prepared for further analysis and visualization.
 
