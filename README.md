@@ -7,6 +7,25 @@ The goal is to provide a comprehensive analysis of global population trends sinc
 
 Based on the data set, various operations were performed using Python's Pandas library. The completeness and consistency of the data was checked, aggregated variables were added and the entire data table was unpivoted to be prepared for further analysis and visualization.
 
+## Visualizations (Full screen view is recommended)
+1) World Population Analysis From 1970 to 2020:
+    https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash70-20
+
+2) World Population Analysis From 1970 to 1980:
+
+
+3) World Population Analysis From 1980 to 1990:
+
+
+4) World Population Analysis From 1990 to 2000:
+
+
+5) World Population Analysis From 2000 to 2010:
+
+
+6) World Population Analysis From 2010 to 2020:
+
+
 ## Dataset Used:
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
@@ -32,3 +51,6 @@ Area (km²): Area size of the Country/Territories in square kilometer.
 Density (per km²): Population Density per square kilometer.
 Growth Rate: Population Growth Rate by Country/Territories.
 World Population Percentage: The population percentage by each Country/Territories.
+
+## Contact
+dowsing-plants0u@icloud.com
