@@ -56,8 +56,10 @@ World Population Percentage: The population percentage by each Country/Territori
 
 ## Files:
 Dataset:        00_world_population.csv
+
 Script:         01_world_population.ipynb
-Outputfiles:    11_north_american_population_unpivoted.csv
+
+Outputfiles:    11_north_american_population_unpivoted.csv,
                 12_south_american_population_unpivoted.csv
                 13_european_population_unpivoted.csv
                 14_african_population_unpivoted.csv
