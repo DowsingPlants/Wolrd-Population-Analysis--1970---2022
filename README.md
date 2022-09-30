@@ -12,22 +12,23 @@ Based on the data set, various operations were performed using Python's Pandas l
     https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash70-20
 
 2) World Population Analysis From 1970 to 1980:
-
+    https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash70-80
 
 3) World Population Analysis From 1980 to 1990:
-
+    https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash80-90
 
 4) World Population Analysis From 1990 to 2000:
-
+    https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash90-00
 
 5) World Population Analysis From 2000 to 2010:
-
+    https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash00-10
 
 6) World Population Analysis From 2010 to 2020:
-
+    https://public.tableau.com/app/profile/dowsing.plants/viz/07_World_Population_Analysis_1970-2020/WP_Dash10-20
 
 ## Dataset Used:
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+
 filename:   00_world_population.csv
 
 ### Content
