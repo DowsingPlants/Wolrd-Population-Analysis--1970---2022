@@ -54,5 +54,16 @@ Density (per km²): Population Density per square kilometer.
 Growth Rate: Population Growth Rate by Country/Territories.
 World Population Percentage: The population percentage by each Country/Territories.
 
+## Files:
+Dataset:        00_world_population.csv
+Script:         01_world_population.ipynb
+Outputfiles:    11_north_american_population_unpivoted.csv
+                12_south_american_population_unpivoted.csv
+                13_european_population_unpivoted.csv
+                14_african_population_unpivoted.csv
+                15_asian_population_unpivoted.csv
+                16_oceanian_population_unpivoted.csv
+                17_european_union_population_unpivoted.csv
+
 ## Contact
 dowsing-plants0u@icloud.com
